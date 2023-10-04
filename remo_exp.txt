@@ -6,3 +6,5 @@ git log --oneline --pretty
 git clone <url>
 git remote -v
 ---------------------- from remote repository
+
+git pull origin(url)
