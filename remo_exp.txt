@@ -2,3 +2,7 @@ git status, git init, git status
 git log, git log --oneline
 git log --oneline --pretty
 -------------------- write from remote repository
+
+git clone <url>
+git remote -v
+---------------------- from remote repository
