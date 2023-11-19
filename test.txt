@@ -1,1 +1,9 @@
-git init	
+git init
+-------------------
+git status
+git log
+git log --oneline
+--------------------
+git rm <file_name>
+git restore <filename>
+----------	
